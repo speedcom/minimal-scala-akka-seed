@@ -1,7 +1,7 @@
 import scalariform.formatter.preferences._
 
-name          := "minimal-scala-akka-seed"
-organization  := "com.github.yeghishe"
+name          := "scala-akka-seed"
+organization  := "com.github.speedcom"
 version       := "0.0.1"
 scalaVersion  := "2.11.6"
 scalacOptions := Seq("-unchecked", "-feature", "-deprecation", "-encoding", "utf8")
